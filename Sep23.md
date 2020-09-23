@@ -1,4 +1,4 @@
-# Read:13 \| Form Data 
+# Form Data 
 
 MDN: [Forms and Data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data)       
 Reference: [HTML Forms](https://htmlreference.io/forms/)   
