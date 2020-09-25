@@ -26,6 +26,3 @@ Sadly, companies are missing out on this because of the natural biases and life 
 Diversity does a better job at serving a user base because when employees better represent their users (or a wide range of user types) then the products become more effective for those groups
 
 > In a nutshell: Walker & Company CEO Tristan Walker recently observed: "If more black people were building features or striking partnerships at Twitter, perhaps they'd have a great idea for more effectively engaging black users."
-
-
-[Back to Home](README.md)
